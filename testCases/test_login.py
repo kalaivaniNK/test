@@ -91,13 +91,13 @@ class Test_1:
     renewaldate = "2025-05-10"
 #admin
     empname = "kalai"
-    username1 = "vaniNK10387"
+    username1 = "vaniNK199817"
     password1 ="K@l@!v@n!1"
     cnfrmpassword = "K@l@!v@n!1"
 #search
-    Username = "vaniNK10387"
+    Username = "vaniNK199817"
 #again login
-    username2="vaniNK10387"
+    username2="vaniNK199817"
     password2="K@l@!v@n!1"
     logger = customlogger.test_logDemo()
     def test_user_login(self,setup):
@@ -147,7 +147,7 @@ class Test_1:
         loginPageObj.search_user_name(self.Username)
         username = loginPageObj.check_customer_added()
         print(username)
-        if username == "vaniNK10387":
+        if username == "vaniNK199817":
             self.logger.info("--- the username is correct------")
             print("customer successfully added")
         else:

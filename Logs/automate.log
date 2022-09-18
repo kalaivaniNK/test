@@ -1,14 +1,25 @@
-2022-09-17 05:12:51,867 :INFO : WDM :====== WebDriver manager ======
-2022-09-17 05:12:53,302 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-2022-09-17 05:12:55,013 :INFO : WDM :Driver [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-2022-09-17 05:13:14,783 :INFO : root :************* New employee is Added ***********
-2022-09-17 05:13:29,063 :INFO : WDM :====== WebDriver manager ======
-2022-09-17 05:13:31,169 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-2022-09-17 05:13:33,106 :INFO : WDM :Driver [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-2022-09-17 05:14:49,541 :INFO : WDM :====== WebDriver manager ======
-2022-09-17 05:14:51,944 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-2022-09-17 05:14:54,102 :INFO : WDM :Driver [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-2022-09-17 05:15:23,154 :INFO : root :************* New employee is Added ***********
-2022-09-17 05:15:37,616 :INFO : WDM :====== WebDriver manager ======
-2022-09-17 05:15:39,467 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-2022-09-17 05:15:41,990 :INFO : WDM :Driver [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+2022-09-18 00:07:17,437 :INFO : WDM :====== WebDriver manager ======
+2022-09-18 00:07:19,146 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
+2022-09-18 00:07:21,590 :INFO : WDM :About to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+2022-09-18 00:07:35,004 :INFO : WDM :Driver has been saved in cache [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195]
+2022-09-18 00:07:53,689 :INFO : root :************* New employee is Added ***********
+2022-09-18 00:08:04,500 :INFO : root :------ Personal Details is Added ---------
+2022-09-18 00:08:19,110 :INFO : root :------ Contact  Details is Added ---------
+2022-09-18 00:08:23,538 :INFO : root :------ Emergency  Details is Added ---------
+2022-09-18 00:08:28,464 :INFO : root :------ dependent is Added ---------
+2022-09-18 00:08:31,516 :INFO : root :------ Immigration details are  is Added ---------
+2022-09-18 00:08:36,276 :INFO : root :------ job details is Added properly---------
+2022-09-18 00:08:40,639 :INFO : root :------ salary details also Added properly---------
+2022-09-18 00:08:43,224 :INFO : root :------ tax details also Added properly---------
+2022-09-18 00:09:07,793 :INFO : root :------ report also included--------
+2022-09-18 00:09:09,170 :INFO : root :-----qualification work experience is added------
+2022-09-18 00:09:16,864 :INFO : root :--------- qualificatin education is added-----------
+2022-09-18 00:09:20,631 :INFO : root :-------qualification skills  are added properly------
+2022-09-18 00:09:24,578 :INFO : root :------- qualification language is added------
+2022-09-18 00:09:28,555 :INFO : root :--------qualification license is added----------
+2022-09-18 00:09:40,325 :INFO : root :---------- membership is added---------
+2022-09-18 00:09:59,961 :INFO : root :--------- admin added------------
+2022-09-18 00:10:10,655 :INFO : root :--- the username is correct------
+2022-09-18 00:10:17,200 :INFO : WDM :====== WebDriver manager ======
+2022-09-18 00:10:18,924 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
+2022-09-18 00:10:21,109 :INFO : WDM :Driver [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
