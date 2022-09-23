@@ -8,7 +8,7 @@ def test_logDemo():
 
     # FileHandler class to set the location of log file
 
-    filehandler = logging.FileHandler('.\\Logs\\automate.log')
+    fileHandler = logging.FileHandler('Logs\\automate.log')
 
     # Formatter class to set the format of log file
 
@@ -16,11 +16,11 @@ def test_logDemo():
 
     # object of FileHandler gets formatting info from setFormatter #method
 
-    filehandler.setFormatter(formatter)
+    fileHandler.setFormatter(formatter)
 
     # logger object gets formatting, path of log file info with addHandler #method
 
-    logger.addHandler(filehandler)
+    logger.addHandler(fileHandler)
 
     # setting logging level to INFO
 

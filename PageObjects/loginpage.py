@@ -78,7 +78,7 @@ class Login:
     job_click = "//a[normalize-space()='Job']"
     joined_date = "//input[@placeholder='yyyy-mm-dd']"
     drp_job_title_path = "//div[2]/div/div[2]//div[@tabindex='0']"
-    select_job_title = "//*[contains(text(),'Chief Executive Officer')]"
+    select_job_title = "//*[contains(text(),'Chief Technical Officer')]"
     drp_job_categery = "//div[4]/div/div[2]//div[@tabindex='0']"
     select_job_categery ="//*[contains(text(),'Professionals')]"
     sub_unit = "//div[5]/div/div[2]//div[@tabindex='0']"

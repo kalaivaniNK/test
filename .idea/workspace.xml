@@ -4,7 +4,10 @@
     <list default="true" id="57b4f4fd-3f9c-4f8d-a8f8-2540a9eec811" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/automate.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automate.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjects/loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/loginpage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/hrmreport.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/customlogger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/customlogger.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

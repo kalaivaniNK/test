@@ -1,25 +1,24 @@
-2022-09-18 00:07:17,437 :INFO : WDM :====== WebDriver manager ======
-2022-09-18 00:07:19,146 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-2022-09-18 00:07:21,590 :INFO : WDM :About to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
-2022-09-18 00:07:35,004 :INFO : WDM :Driver has been saved in cache [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195]
-2022-09-18 00:07:53,689 :INFO : root :************* New employee is Added ***********
-2022-09-18 00:08:04,500 :INFO : root :------ Personal Details is Added ---------
-2022-09-18 00:08:19,110 :INFO : root :------ Contact  Details is Added ---------
-2022-09-18 00:08:23,538 :INFO : root :------ Emergency  Details is Added ---------
-2022-09-18 00:08:28,464 :INFO : root :------ dependent is Added ---------
-2022-09-18 00:08:31,516 :INFO : root :------ Immigration details are  is Added ---------
-2022-09-18 00:08:36,276 :INFO : root :------ job details is Added properly---------
-2022-09-18 00:08:40,639 :INFO : root :------ salary details also Added properly---------
-2022-09-18 00:08:43,224 :INFO : root :------ tax details also Added properly---------
-2022-09-18 00:09:07,793 :INFO : root :------ report also included--------
-2022-09-18 00:09:09,170 :INFO : root :-----qualification work experience is added------
-2022-09-18 00:09:16,864 :INFO : root :--------- qualificatin education is added-----------
-2022-09-18 00:09:20,631 :INFO : root :-------qualification skills  are added properly------
-2022-09-18 00:09:24,578 :INFO : root :------- qualification language is added------
-2022-09-18 00:09:28,555 :INFO : root :--------qualification license is added----------
-2022-09-18 00:09:40,325 :INFO : root :---------- membership is added---------
-2022-09-18 00:09:59,961 :INFO : root :--------- admin added------------
-2022-09-18 00:10:10,655 :INFO : root :--- the username is correct------
-2022-09-18 00:10:17,200 :INFO : WDM :====== WebDriver manager ======
-2022-09-18 00:10:18,924 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
-2022-09-18 00:10:21,109 :INFO : WDM :Driver [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+2022-09-23 03:33:51,072 :INFO : WDM :====== WebDriver manager ======
+2022-09-23 03:33:56,897 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
+2022-09-23 03:34:05,347 :INFO : WDM :Driver [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+2022-09-23 03:34:41,164 :INFO : root :************* New employee is Added ***********
+2022-09-23 03:34:54,577 :INFO : root :------ Personal Details is Added ---------
+2022-09-23 03:35:10,962 :INFO : root :------ Contact  Details is Added ---------
+2022-09-23 03:35:17,228 :INFO : root :------ Emergency  Details is Added ---------
+2022-09-23 03:35:23,489 :INFO : root :------ dependent is Added ---------
+2022-09-23 03:35:29,932 :INFO : root :------ Immigration details are  is Added ---------
+2022-09-23 03:35:36,985 :INFO : root :------ job details is Added properly---------
+2022-09-23 03:35:41,792 :INFO : root :------ salary details also Added properly---------
+2022-09-23 03:35:44,786 :INFO : root :------ tax details also Added properly---------
+2022-09-23 03:36:11,139 :INFO : root :------ report also included--------
+2022-09-23 03:36:13,598 :INFO : root :-----qualification work experience is added------
+2022-09-23 03:36:21,326 :INFO : root :--------- qualificatin education is added-----------
+2022-09-23 03:36:25,402 :INFO : root :-------qualification skills  are added properly------
+2022-09-23 03:36:29,527 :INFO : root :------- qualification language is added------
+2022-09-23 03:36:33,570 :INFO : root :--------qualification license is added----------
+2022-09-23 03:36:45,496 :INFO : root :---------- membership is added---------
+2022-09-23 03:37:06,367 :INFO : root :--------- admin added------------
+2022-09-23 03:37:18,250 :INFO : root :--- the username is correct------
+2022-09-23 03:37:24,437 :INFO : WDM :====== WebDriver manager ======
+2022-09-23 03:37:26,828 :INFO : WDM :Get LATEST chromedriver version for google-chrome 105.0.5195
+2022-09-23 03:37:28,765 :INFO : WDM :Driver [C:\Users\dell\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
